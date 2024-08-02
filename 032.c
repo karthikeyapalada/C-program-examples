@@ -1,4 +1,4 @@
-\\C PROGRAM TO CHECK IF A GIVEN IS DIVISIBLE BY BOTH three and five.
+//C PROGRAM TO CHECK IF A GIVEN IS DIVISIBLE BY BOTH three and five.
 #include<stdio.h>
 main()
  { int number;
